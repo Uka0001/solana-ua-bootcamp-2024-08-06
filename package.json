@@ -1,6 +1,7 @@
 {
-  "name": "solana-training",
+  "name": "solana-ua-bootcamp-2024-08-06",
   "version": "1.0.0",
+  "description": "Форкніть цей репозитарій, і додайте адреусу свого форку як відповідь на практичне заняття 4.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@solana-developers/helpers": "^2.4.0",
     "@solana/web3.js": "^1.95.2",

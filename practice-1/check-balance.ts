@@ -22,3 +22,4 @@ console.log(
 );
 
 //npx esrun check-balance.ts
+//npx esrun practice-1/check-balance.ts
